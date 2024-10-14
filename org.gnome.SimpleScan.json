@@ -202,7 +202,7 @@
                 "--with-cupsbackenddir=/app/lib/cups/backend"
             ],
             "build-options": {
-                "cppflags": "-I/app/include/libusb-1.0 -Wno-error=implicit-function-declaration -Wno-error=return-mismatch -Wno-error=incompatible-pointer-types"
+                "cppflags": "-I/app/include/libusb-1.0"
             },
             "sources": [
                 {
